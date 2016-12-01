@@ -1,0 +1,11 @@
+# Twitter OAuth Local Setting
+twitter_key:    "5hWlh3gacPkSlKDGAkXw73Q3x"
+twitter_secret: "2ZIIrWShHEeBGkJNC9S2S0895ZNQ5bVB5DTM4nZiQoltRUwbvH"
+
+# Facebook OAuth Setting
+facebook_app_id:     "1703035450026095"
+facebook_app_secret: "c90f78331b839ea3a17eab2c1dbfb9f6"
+
+# GitHub OAuth Setting
+github_client_id: "a9e5b878e420242298ed"
+github_secret:    "69bcab9f6cada4cfd71f5401b94140ac554de157"
